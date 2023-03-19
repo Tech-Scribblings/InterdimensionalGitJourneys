@@ -1,5 +1,18 @@
 # Exercise 027 - Interactive Rebase
 
+With git's interactive rebase, developers can rewrite commit history, 
+refining their work and organizing their time-travel adventures. Step into 
+the shoes of a history-altering time-traveler and master the art of 
+interactive rebase!
+
+Developers, like these time-travelers, wield a
+the power to modify the past, merging timelines and altering the course of 
+events.
+
+In an alternate reality, time-travelers rewrite history to prevent 
+catastrophes and shape a better future. They possess the power to modify 
+the past, merging timelines and altering the course of events.
+
 In this exercise, you'll learn how to use git's interactive rebase feature to rewrite
 your commit history. It's like being the Doctor in "Doctor Who," going back in time
 and changing the course of history!
@@ -47,4 +60,11 @@ adventures well-organized and clean!
 
 Nerdy Joke: Why do "Doctor Who" fans love git's interactive rebase? It's the closest
 thing to having a sonic screwdriver for their code!
+
+```
+    ___
+[\\\\\\\\\\\\\\]
+  '---'----'---'
+
+```
 

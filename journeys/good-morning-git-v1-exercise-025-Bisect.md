@@ -1,5 +1,18 @@
 # Exercise 025 - Bisect
 
+Join these brave detectives as they employ the power of git bisect to 
+locate the source of the chaos. Learn to navigate the space-time continuum 
+and become a cosmic crime-fighter!
+
+Using git bisect, the detectives employ binary search techniques to 
+pinpoint the exact moment the rogue time-traveler introduced a disruptive 
+anomaly. They work tirelessly to restore balance to the cosmos.
+
+A rogue time-traveler is wreaking havoc throughout history, introducing 
+anomalies that threaten the fabric of the space-time continuum. A group of 
+time-traveling detectives embark on a mission to track down the culprit 
+and restore order to the universe.
+
 In this exercise, you'll learn how to use git bisect to find the commit that introduced
 a bug. It's like traveling back in time to catch a villain in the act!
 
@@ -37,4 +50,12 @@ introduced a bug. Time-traveling detectives would be proud!
 
 Nerdy Joke: Why do time-traveling developers love git bisect? It's like playing
 "Hot or Cold" with the space-time continuum!
+
+```
+
+  /\
+ /  \
+/----\
+
+```
 

@@ -1,4 +1,17 @@
-# Exercise 024 - Stashing Changes
+i# Exercise 024 - Stashing Changes
+
+Embark on this thrilling adventure and learn to manipulate time and space 
+with git stash. Preserve your work, explore different timelines, and 
+become a master of temporal manipulation!
+
+In the world of Git, this pocket dimension is called the 'stash.' It 
+allows developers to temporarily save changes, so they can experiment 
+without losing their hard work, just like our time-traveler.
+
+Imagine a time-traveler zipping through various timelines, leaving traces 
+of their adventures behind. Occasionally, they pause their journey to 
+explore an alternate reality, storing their progress in a pocket dimension 
+for safekeeping.
 
 In this exercise, you'll learn how to use git stash to temporarily save your changes
 and clean your working directory. It's like pausing your time-travel adventure to
@@ -39,3 +52,9 @@ progress!
 Nerdy Joke: Why do time-traveling developers love git stash? It's like a pocket
 dimension where they can store their work for later!
 
+```
+    _
+  _|_|_
+(o o o o)
+
+```

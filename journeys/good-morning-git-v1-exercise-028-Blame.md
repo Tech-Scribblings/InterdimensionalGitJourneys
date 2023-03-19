@@ -1,5 +1,19 @@
 # Exercise 028 - Blame
 
+Join the ranks of these code detectives and learn to wield the power of 
+git blame. Dive into the mysteries of your code's past and hold the 
+responsible parties accountable for their actions!
+
+With git blame, the detectives analyze each line of code, uncovering the 
+secrets of the past and revealing the identity of the elusive figure. 
+Together, they work to restore balance to the code universe and maintain 
+the integrity of their projects.
+
+A mysterious figure is altering the course of code history, leaving a 
+trail of perplexing changes in their wake. A team of time-traveling code 
+detectives sets out to unravel this enigma and hold the perpetrator 
+accountable.
+
 In this exercise, you'll learn how to use git blame to see who made changes to a file
 and when. It's like being a detective in a time-travel mystery!
 
@@ -26,4 +40,11 @@ and hold the responsible party accountable!
 
 Nerdy Joke: Why do time-traveling developers love git blame? It's like having a
 holodeck simulation that reveals the secrets of their code's past!
+
+```
+  _\/_  
+  (o o)
+ >_(_)_<
+
+```
 

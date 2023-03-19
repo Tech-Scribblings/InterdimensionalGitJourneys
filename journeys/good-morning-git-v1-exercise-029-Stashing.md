@@ -49,3 +49,10 @@ pocket-sized TARDIS for their code changes!
 Remember, with great time-traveling power comes great responsibility. Use git stash
 wisely, and don't forget about your stashed treasures!
 
+```
+    \|||/
+     (o o)
+---ooO(_)Ooo---
+
+```
+
