@@ -1,0 +1,40 @@
+# Exercise 025 - Bisect
+
+In this exercise, you'll learn how to use git bisect to find the commit that introduced
+a bug. It's like traveling back in time to catch a villain in the act!
+
+1. Make sure you're in your git repository directory.
+
+2. Identify a commit where the bug is present and a commit before the bug was
+   introduced.
+
+3. Start the bisect process using `git bisect start`.
+
+4. Mark the bad commit using `git bisect bad <commit_hash>`.
+
+5. Mark the good commit using `git bisect good <commit_hash>`.
+
+```
+   Time-Space Diagram:
+   -------------------
+   main       A---B---C---D---E---F---G
+   -------------------
+```
+
+6. Git will now help you perform a binary search to find the commit that introduced
+   the bug. It will automatically check out a commit halfway between the good and bad
+   commits.
+
+7. Test the code and mark the commit as good or bad using `git bisect good` or
+   `git bisect bad`.
+
+8. Repeat steps 6-7 until git identifies the first bad commit.
+
+9. Run `git bisect reset` to end the bisect process and return to your original branch.
+
+Congratulations! You have successfully used git bisect to find the commit that
+introduced a bug. Time-traveling detectives would be proud!
+
+Nerdy Joke: Why do time-traveling developers love git bisect? It's like playing
+"Hot or Cold" with the space-time continuum!
+
