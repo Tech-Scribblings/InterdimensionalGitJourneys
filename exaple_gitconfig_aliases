@@ -1,0 +1,42 @@
+# example content for ~/.gitconfig (global) or local for given repo ( .git/config )
+
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
+        grep = auto
+[alias]
+        fork_universe = checkout -b
+        interdimension_and_time_travel = checkout
+        universes = branch
+        create_travel_teleport = commit
+        st = status
+        ci = commit
+        br = branch
+        co = checkout
+        a  = add
+        d  = diff
+        m  = merge --no-ff
+        logol = log --pretty=oneline
+        noff  = merge --no-ff
+        noffnc = merge --no-ff --no-commit
+        ciam = commit --amend
+        gn  = grep -n
+        wdiff  = diff --color-words
+        diffc = diff --cumulative
+        diffs = diff --summary
+
+#[diff]
+#        tool = meld
+[difftool.latex]
+        cmd = git-latexdiff "$LOCAL" "$REMOTE"
+[difftool]
+        prompt = false
+[alias]
+        ldiff = difftool -t latex
+[credential]
+        helper = cache --timeout=3600
+[pull]
+        ff = only
+
