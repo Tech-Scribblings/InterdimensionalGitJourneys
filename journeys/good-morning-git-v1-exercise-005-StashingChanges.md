@@ -1,5 +1,17 @@
 # Exercise 005 - Stashing Changes
 
+You effortlessly navigate the spacetimecontinuum, using Git stash to store 
+unfinished work in a secure, hiddenlocation. With your newfound skills, 
+you're free to hop betweenuniverses, leaving no trace of your presence.
+
+Imagine Git stash as your own personal pocketdimension. You can 
+temporarily store changes in this alternate universewhile you switch 
+between tasks, ensuring no code is lost or forgotten.
+
+As a time-traveling developer, you're no strangerto working on multiple 
+projects simultaneously. Juggling multipleuniverses is second nature to 
+you, and Git stash is your secret weapon.
+
 In this exercise, you'll learn how to temporarily save your changes using git stash,
 allowing you to switch between branches or universes without committing.
 

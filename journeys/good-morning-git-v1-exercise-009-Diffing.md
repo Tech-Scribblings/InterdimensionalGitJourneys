@@ -1,5 +1,19 @@
 # Exercise 009 - Diffing
 
+As you continue to hone your time-travelingskills, you uncover the secrets 
+of the universe, one git diff at atime. Your expertise ensures that no 
+code goes unnoticed, and yourmastery of the spacetime continuum remains 
+unrivaled.
+
+Git diff is your trusty magnifying glass, revealing the subtle differences 
+between commits, branches, and yourworking directory. With each use of git 
+diff, you become more attunedto the intricate web of spacetime in your 
+codebase.
+
+As a time-traveling developer, you've masteredthe art of keeping track of 
+changes across countless universes. Theability to spot the butterfly 
+effect in your code is a skill that hasserved you well.
+
 In this exercise, you'll learn how to use git diff to compare changes between commits,
 branches, or even your working directory.
 

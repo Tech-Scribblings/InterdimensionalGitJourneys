@@ -1,5 +1,17 @@
 # Exercise 006 - Rebasing
 
+As you rebase the branches, you watch thetimelines merge into one. Now, 
+your Git history is as clean and orderlyas the spacetime continuum itself. 
+You've once again proven your masteryover time and space.
+
+With Git rebase, you can rewrite history andcreate a single, coherent 
+timeline. You step into the TARDIS, setting acourse for the precise moment 
+where the main and linear-universebranches diverge.
+
+In your time-traveling escapades, you've learnedthe importance of keeping 
+a clean, linear timeline. Parallel universesare fascinating, but they can 
+lead to chaos and confusion when theyintersect.
+
 In this exercise, you'll learn how to rebase your changes, which allows you to
 linearize your commit history and keep a clean timeline.
 

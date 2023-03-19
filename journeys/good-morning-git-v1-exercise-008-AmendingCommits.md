@@ -1,5 +1,14 @@
 # Exercise 008 - Amending Commits
 
+With a flash of lightning and the roar of theengine, you arrive at the 
+scene of the erroneous commit. You quicklyamend the commit, fixing the 
+mistake and altering the commit messagewithout disturbing the spacetime 
+continuum.
+
+Git commit --amend is your go-to command formaking these adjustments. You 
+slip into your trusty DeLorean, fluxcapacitor charged and ready, and set 
+the time circuits to the exactmoment of your previous commit.
+
 In this exercise, you'll learn how to amend your most recent commit, allowing you to
 change the commit message or include additional changes.
 

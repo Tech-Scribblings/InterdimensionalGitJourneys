@@ -1,5 +1,18 @@
 # Exercise 004 - Resolving Conflicts
 
+Armed with your trusty Sonic Screwdriver andthe knowledge of Git, you 
+eliminate merge conflicts with ease. Theuniverses become one, and the 
+spacetime fabric is preserved. Timetravelers everywhere thank you for 
+keeping the timeline clean andconflict-free.
+
+You fire up the TARDIS, setting the coordinatesfor the precise moment 
+where the main and conflicting-universe branchescollide. The hum of the 
+time machine fills the air as you prepare toresolve the conflict.
+
+As the guardian of the spacetime continuum, youoften find yourself dealing 
+with merge conflicts between variousuniverses. It's your job to ensure 
+that timelines remain coherent andunfractured.
+
 In this exercise, you'll learn how to resolve merge conflicts that may arise when
 merging parallel universes (branches).
 

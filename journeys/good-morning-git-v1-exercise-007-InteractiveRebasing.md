@@ -1,5 +1,17 @@
 # Exercise 007 - Interactive Rebasing
 
+With your newfound power, you carefully navigatethe complex web of 
+spacetime, ensuring that your Git history remainspristine and free of 
+paradoxes. Time-travelers everywhere admire yourskill and precision.
+
+Interactive rebasing is like a time machine foryour Git history. It allows 
+you to revisit past commits, rewrite history,and keep your timeline free 
+of inconsistencies and contradictions.
+
+As a time-traveling developer, you've seen theconsequences of messy 
+timelines firsthand. Unresolved paradoxes andcluttered histories can lead 
+to disastrous outcomes.
+
 In this exercise, you'll learn how to interactively rebase your commits, allowing you to
 modify your commit history by reordering, squashing, or editing commits.
 
