@@ -1,5 +1,21 @@
 # Exercise 012 - Using Tags
 
+In this exercise, our hero will learn to create and use tags, harnessing 
+their power to navigate through the most critical moments in codebase 
+history. With this newfound knowledge, our hero will be better equipped to 
+travel the multiverse and shape
+the future of countless timelines.
+
+Tags allow our intrepid developer to mark significant moments in time, 
+creating a roadmap through the ever-shifting landscape of the codebase. 
+These tags can be lightweight or annotated, depending on the needs of the 
+time-space traveler.
+
+In the vast expanse of the codebase multiverse, git tags serve as beacons 
+of light, guiding time-traveling developers on their journey through the 
+tangled web of time and space. Our hero, armed with the knowledge of 
+branches, now ventures forth to master the art of tagging.
+
 In this exercise, you'll learn how to create and use tags to mark important points in
 your project's history.
 
@@ -24,4 +40,10 @@ like time machines!
 
 Nerdy Joke: Why do time travelers use git tags? They need bookmarks for their favorite
 moments in code history!
+
+```
+   .--.
+  ( v1.0 ) Using Tags
+   `--`
+```
 

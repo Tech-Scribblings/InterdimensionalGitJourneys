@@ -1,5 +1,22 @@
 # Exercise 014 - Stashing Changes
 
+In this exercise, our hero will learn the art of stashing changes, 
+allowing them to easily switch between parallel universes or tasks. Will 
+they be successful in mastering this essential skill, or will the 
+multiverse descend into chaos?
+
+By mastering git stash, our time-traveling developer will be able to 
+effortlessly switch between tasks, ensuring that no universe is left 
+untended. With this newfound power, our hero can work on one task in one 
+universe and pick it up in another, maintaining the delicate balance of 
+the multiverse.
+
+As our hero navigates the intricacies of the codebase multiverse, they 
+often find themselves working on multiple tasks at once, each existing in 
+a separate parallel universe. To maintain order, our hero must learn to 
+use git stash, a powerful tool for temporarily saving changes without 
+committing unfinished work.
+
 In this exercise, you'll learn how to use git stash to temporarily save changes in your
 working directory, allowing you to switch between branches or tasks without committing
 unfinished work.
@@ -25,4 +42,12 @@ universes or tasks!
 
 Nerdy Joke: Why do time-traveling developers love git stash? They can save their work
 in one universe and pick it up in another!
+
+```
+  ____ _           _
+ / ___| |_ __ __ _| | _____ _ __
+| |   | | '__/ _` | |/ / _ \ '__|
+| |___| | | | (_| |   <  __/ |
+ \____|_|_|  \__,_|_|\_\___|_| Stashing Changes
+```
 
