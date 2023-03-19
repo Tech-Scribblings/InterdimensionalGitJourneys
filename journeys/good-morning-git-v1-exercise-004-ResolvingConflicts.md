@@ -24,8 +24,8 @@ main:      A -- B -- M -- N
 conflicting-universe:   C
 ```
 
-7. Open the `README.md` file and look for the conflict markers (<<<<<<<, =======, and
-   >>>>>>>). Edit the file to resolve the conflict by choosing which changes to keep.
+7. Open the `README.md` file and look for the conflict markers (`<<<<<<<`, `=======`, and
+   `>>>>>>>`). Edit the file to resolve the conflict by choosing which changes to keep.
 
 8. Stage the resolved `README.md` file by running `git add README.md`.
 

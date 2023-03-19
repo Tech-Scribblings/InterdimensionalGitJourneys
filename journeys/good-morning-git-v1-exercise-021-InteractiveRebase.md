@@ -20,12 +20,14 @@ commit history. It's like editing the script of your time-travel adventure!
 
 8. Save and close the file to complete the interactive rebase process.
 
+```
    Time-Space Diagram:
    -------------------
    main       A---B---C---D
                        \
    new_branch          E---F---G
    -------------------
+```
 
 Congratulations! You have successfully used git rebase interactively to rewrite your
 commit history. You can now edit the timeline of your codebase with ease!
