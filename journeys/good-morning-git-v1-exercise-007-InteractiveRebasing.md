@@ -42,3 +42,11 @@ greater control over your commit history.
 Nerdy Joke: Why do time-traveling developers prefer interactive rebasing? It lets them
 rewrite history without causing paradoxes!
 
+```
+  ____
+ |o  o|
+ | <> | 
+ |____|
+ ^^^^^
+```
+

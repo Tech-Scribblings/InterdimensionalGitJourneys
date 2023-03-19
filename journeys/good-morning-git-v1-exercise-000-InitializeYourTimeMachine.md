@@ -38,3 +38,11 @@ commit. Now you're ready to explore the vast expanse of time and space!
 Nerdy Joke: Why did the time traveler refuse to use Git? He was afraid of committing to
 the past!
 
+```
+  ___  
+ ('v') 
+//-=-\ 
+(\_=_/)
+ ^^ ^^ 
+```
+

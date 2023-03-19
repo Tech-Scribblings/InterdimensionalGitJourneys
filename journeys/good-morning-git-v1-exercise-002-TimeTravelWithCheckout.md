@@ -31,3 +31,10 @@ to alter the past too much, or you might create a time paradox!
 Nerdy Joke: Why don't time travelers use Git to undo their mistakes? They already have a
 "reset hard" button!
 
+```
+  .--. 
+ (.->) 
+ (/___) 
+ '---' 
+```
+
