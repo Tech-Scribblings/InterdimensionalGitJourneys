@@ -1,5 +1,21 @@
 # Exercise 021 - Interactive Rebase
 
+Embrace your destiny and follow the steps in
+this exercise to learn interactive rebase. With this skill, you will truly
+become a master of time and code. Good luck, and remember - the future is
+in your hands!
+
+As an aspiring time-traveling developer, you've
+been chosen to learn the secrets of interactive rebase. Your mission is to
+master this technique and reshape the timeline of your codebase with ease,
+while avoiding the dreaded butterfly effect.
+
+In the far reaches of the Git Cosmos, where
+time-traveling developers manipulate the very fabric of reality, there
+exists a powerful technique known as interactive rebase. This mystical
+skill allows them to rewrite history without worrying about the butterfly
+effect.
+
 In this exercise, you'll learn how to use git rebase interactively to rewrite your
 commit history. It's like editing the script of your time-travel adventure!
 
@@ -34,4 +50,12 @@ commit history. You can now edit the timeline of your codebase with ease!
 
 Nerdy Joke: Why do time-traveling developers love interactive rebase? They can rewrite
 history without worrying about the butterfly effect!
+
+```
+  .-"-.
+ /[_p_]\ 
+(/ 0   \)
+ -(_)-(_)- 
+   / _   (/ (_) \)
+```
 

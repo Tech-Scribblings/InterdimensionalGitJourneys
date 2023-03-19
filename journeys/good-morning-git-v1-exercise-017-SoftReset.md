@@ -1,5 +1,18 @@
 # Exercise 017 - Soft Reset
 
+Take your first step into this fantastic journey
+by following the instructions in this exercise, and unlock the secrets of
+time-traveling developers. Good luck, and may the force of Git be with you!
+
+As a new time-traveling developer, you have been
+given the task to master this technique. Your mission, should you choose to
+accept it, is to learn the art of soft reset and never worry about your
+packed luggage while traveling through time.
+
+In a universe where time travelers use Git as their
+favorite tool, they've discovered the ultimate way to pack their bags and
+undo their past mistakes without losing their luggage - the soft reset.
+
 In this exercise, you'll learn how to use git reset with the `--soft` option to undo
 commits, while keeping the changes staged.
 
@@ -22,4 +35,12 @@ manipulate the space-time fabric of your codebase.
 
 Nerdy Joke: Why do developers love soft reset? It's like having a time machine that
 keeps your luggage packed!
+
+```
+  _____
+ /     |() () |
+ \  ^  /
+  |||||
+  |||||
+```
 

@@ -1,5 +1,21 @@
 # Exercise 020 - Cherry-Picking
 
+Follow the instructions in this exercise and
+master the art of cherry-picking. Once you've learned this powerful skill,
+you'll become an invaluable member of the time-traveling developers'
+community. Good luck, and may your code be ever bug-free!
+
+You have been chosen to join this elite group
+of time-traveling developers and learn the
+of time-traveling developers and learn the ancient art of cherry-picking.
+Embrace your destiny and embark on this journey to bring the best ideas
+from parallel universes into your own.
+
+In a parallel universe where developers are
+time-traveling wizards, there's a magical spell that allows them to pick
+the best features from alternate timelines without causing paradoxes - it's
+called cherry-picking.
+
 In this exercise, you'll learn how to use git cherry-pick to apply changes from a
 specific commit in another branch to your current branch. It's like handpicking the
 best parts of an alternate universe to bring into your own!
@@ -34,4 +50,13 @@ universes!
 
 Nerdy Joke: Why do time-traveling developers love cherry-picking? They can pick the
 best features from alternate timelines without causing paradoxes!
+
+```
+    ___
+ .-"   "-.
+/         \.-"""""-./
+ '-._____.-'
+    /|   (0_0)
+     v
+```
 
