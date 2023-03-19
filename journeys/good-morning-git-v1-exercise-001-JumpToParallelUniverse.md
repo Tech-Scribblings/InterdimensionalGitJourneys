@@ -1,5 +1,18 @@
 # Exercise 001 - Jump to a Parallel Universe
 
+With a determined grin, you embark on yourjourney into this new dimension. 
+You recall a fitting joke you readrecently: 'How do time travelers keep 
+their code organized? They use Git,because it's the best way to branch 
+out!'
+
+You power up the TARDIS, and with a few deftmaneuvers, you create a new 
+branch in your Git repository. Thisparallel-universe branch represents a 
+divergent timeline, ripe forexploration and experimentation.
+
+Having traversed the fabric of time, you nowstand at the precipice of 
+infinite parallel universes. Your next mission:to explore the alternate 
+realities branching out from your Git repository.
+
 In this exercise, you'll learn how to create a new branch, which represents a parallel
 universe in the spacetime continuum of your git repository.
 

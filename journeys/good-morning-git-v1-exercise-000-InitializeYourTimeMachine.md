@@ -1,5 +1,19 @@
 # Exercise 000 - Initialize Your Time Machine
 
+Familiarizing yourself with the controls, younotice a joke written on a 
+nearby chalkboard: 'Why did the time travelerrefuse to use Git? He was 
+afraid of committing to the past!' Chuckling toyourself, you set your 
+sights on adventure and prepare for lift-off.
+
+You find yourself standing in front of a giantblue box, the words 'Time 
+and Relative Dimension in Space' etched into itsside. As you step inside, 
+you prepare to initialize your very own Gitrepository and begin your 
+time-traveling escapades.
+
+Welcome, time-traveling apprentice! Today, youembark on a grand adventure 
+through the spacetime continuum. Your trustytool for this journey is none 
+other than Git, the ultimate time machine.
+
 In this exercise, you'll learn how to initialize your very own time machine (a.k.a. git
 repository) and take your first steps into the spacetime continuum.
 
