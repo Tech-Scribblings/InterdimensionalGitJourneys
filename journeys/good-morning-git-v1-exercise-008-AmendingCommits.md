@@ -22,3 +22,4 @@ fix mistakes without creating additional commits.
 
 Nerdy Joke: What's a time traveler's favorite git command? `git commit --amend`, because
 it allows them to fix their past mistakes without leaving a trace!
+

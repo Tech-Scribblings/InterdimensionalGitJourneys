@@ -25,11 +25,11 @@ navigate through time and space without being tied down by uncommitted work.
 Nerdy Joke: Why do time-traveling developers love git stash? It's like a temporal
 pocket to store their unfinished work!
 
----
+```
     ____________________
    /                    \
    |  Temporal Pocket  |
    |       (stash)      |
    \____________________/
----
+```
 

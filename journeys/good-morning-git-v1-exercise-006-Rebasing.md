@@ -15,11 +15,11 @@ linearize your commit history and keep a clean timeline.
 
 Before rebasing:
 
----
+```
 main:      A -- B -- C
                 \
 linear-universe:   D -- E
----
+```
 
 5. Switch back to the "linear-universe" branch by running `git checkout linear-universe`.
 
@@ -27,11 +27,11 @@ linear-universe:   D -- E
 
 After rebasing:
 
----
+```
 main:      A -- B -- C
                      \
 linear-universe:      D' -- E'
----
+```
 
 7. The "linear-universe" branch now has a linear commit history, with your changes
    built on top of the "main" branch.
@@ -49,3 +49,4 @@ own timelines!
  \_____________________/
 
 ```
+

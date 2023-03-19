@@ -65,7 +65,7 @@ equipped with git bisect!
 
 Here's a bonus ASCII diagram to illustrate your team's heroic efforts:
 
----
+```
                       ______
              /^\   /         \
       /   /    / \/ (O)    (O) \__
@@ -73,7 +73,7 @@ Here's a bonus ASCII diagram to illustrate your team's heroic efforts:
 |||  ||/ /  ||  ||||||||||||||||||
  \|\|//    \_\/\/||       |||||||||
   \/\/\/\/\/\/\/\/\/\/\/\/\/|||||||
----
+```
 Remember, with great time-traveling power comes great responsibility. Use your git
 skills wisely, and work together with your fellow developers to maintain the
 integrity of the space-time continuum, one commit at a time!

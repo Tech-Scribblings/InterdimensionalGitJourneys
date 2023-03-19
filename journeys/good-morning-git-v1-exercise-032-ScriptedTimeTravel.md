@@ -75,13 +75,13 @@ process? So they could catch bugs at light-speed!
 
 Here's a bonus ASCII diagram to illustrate your team's incredible efforts:
 
----
+```
            /\        ______
    /\  /\/   \     /         \
       \/\/\/\ \__/ (O)    (O) \__
              ||||| ||          ||    >
       ||||||||||||||||||||||||||||||||
----
+```
 Remember, with great time-traveling power comes great responsibility. Use your git
 skills wisely, and collaborate with your
 

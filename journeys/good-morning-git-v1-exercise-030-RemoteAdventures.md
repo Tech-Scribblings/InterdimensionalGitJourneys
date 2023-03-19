@@ -71,14 +71,14 @@ wormhole generator that connects their code across the multiverse!
 Here's a bonus ASCII diagram to illustrate the epic adventure:
 
 Time-Space Map:
----
+```
       ______
     /         \
 __/ (O)    (O) \__
   ||          ||    >
   ||  ||||| ||||
   ||  |||||||||||
----
+```
 Remember, with great time-traveling power comes great responsibility. Use your git
 skills wisely, and collaborate with your fellow developers to save the universe, one
 commit at a time!

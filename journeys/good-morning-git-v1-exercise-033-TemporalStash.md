@@ -49,14 +49,14 @@ want to keep their code in a safe space-time!
 
 Here's a bonus ASCII diagram to illustrate your team's amazing adventures:
 
----
+```
       ____
     /      \
    /  --o-\_/____
   <_ \_____||__></
      ||       |||
      ||       |||
----
+```
 
 Remember, with great time-traveling power comes great responsibility. Use your git
 skills wisely, and work together with your fellow developers to maintain the

@@ -18,11 +18,11 @@ merging parallel universes (branches).
 6. Now, try merging the "conflicting-universe" branch into the "main" branch by running
    `git merge conflicting-universe`. You'll encounter a merge conflict.
 
----
+```
 main:      A -- B -- M -- N
                 \  /    /
 conflicting-universe:   C
----
+```
 
 7. Open the `README.md` file and look for the conflict markers (<<<<<<<, =======, and
    >>>>>>>). Edit the file to resolve the conflict by choosing which changes to keep.
@@ -36,3 +36,4 @@ universes. Your mastery over time and space continues to grow!
 
 Nerdy Joke: Why do time-traveling developers always carry a towel? To clean up merge
 conflicts in the Hitchhiker's Guide to the Git-axy!
+
