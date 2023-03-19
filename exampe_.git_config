@@ -1,0 +1,21 @@
+# example .git/config
+# the KEY insight in this "hidden gem" is 
+# "[user]" section
+# (and the only one you really want to copy)
+# that will allow you to official start new interdimensional
+# life under new Gitstronaut identity!
+
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:Tech-Scribblings/InterdimensionalGitJourneys.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "homeuniverse"]
+	remote = origin
+	merge = refs/heads/homeuniverse
+[user]
+    name = Your Gitstronaut Name for your new Interdimensional life!
+    email =  pickYourDestiny@gitstronauts.tardis
